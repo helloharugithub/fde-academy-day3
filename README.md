@@ -361,12 +361,7 @@ You now have:
 - ✅ Code formatted with Black (professional standard)
 - ✅ Full type hints and docstrings
 
-**Time to master:** 150 minutes (2.5 hours)  
-**Effort level:** Medium - good mix of concepts  
-**Real-world applicable:** YES - use this in every client engagement  
-
 ---
 
-**Good luck! You're building real FDE skills.** 🚀
 
 *FDE Academy - TechStar Group Palantir COE*
